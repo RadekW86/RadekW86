@@ -1,16 +1,21 @@
-### Hi there 👋
+# 🖐 Welcome to my Github!
 
-<!--
-**RadekW86/RadekW86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Radek and I am a Front-End Developer 
+To get to know me better, please visit my homepage by clicking the link below 👉 [click to visit](https://radekw86.github.io/Personal-Homepage/)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### In my projects I work with:
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,git,github,vscode)](https://skillicons.dev)
+
+<br/>
+
+### Contact me
+<a href="https://www.linkedin.com/in/radoslaw-wlodarski/"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:wlodarski.radek@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadekW86&theme=dark&show_icons=true&card_width&)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=radekw86&show_icons=true&locale=en&layout=donut&theme=dark" alt="usedLangs" />
