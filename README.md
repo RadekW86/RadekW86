@@ -1,7 +1,8 @@
 # 🖐 Welcome to my Github!
 
 ### My name is Radek and I am a Front-End Developer 
-To get to know me better, please visit my homepage by clicking the link below 👉 [click to visit](https://radekw86.github.io/Personal-Homepage/)
+To get to know me better, please visit my homepage by clicking the link below <br/>
+👉 [click to visit](https://radekw86.github.io/Personal-Homepage/)
 
 <br/>
 
