@@ -7,7 +7,7 @@ To get to know me better, please visit my homepage by clicking the link below <b
 <br/>
 
 ### In my projects I work with:
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nextjs,react,redux,styledcomponents,tailwind,figma,git,github,vscode)](https://skillicons.dev)
 
 <br/>
 
